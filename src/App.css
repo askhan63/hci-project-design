@@ -1,0 +1,26 @@
+
+body {
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+}
+html {
+  height: -webkit-fill-available;
+}
+.App {
+  margin: 0 auto;
+  max-width: 480px!important;
+  height: -webkit-fill-available;
+}
+.sub{
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+}
+
+a, a:visited, a:hover, a:active {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+textarea:focus, input:focus{
+  outline: none;
+}

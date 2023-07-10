@@ -1,0 +1,67 @@
+.inputForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.rows {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input[type="text"] {
+    background-color: rgba(104, 124, 103, 0.16);
+}
+
+input[type="number"] {
+    background-color: rgba(104, 124, 103, 0.16);
+    height: 7vh;
+    font-size: 1.5rem;
+    border: none;
+    width: 95%;
+}
+
+input[type="password"] {
+    background-color: rgba(104, 124, 103, 0.16);
+    height: 7vh;
+    font-size: 1.5rem;
+    border: none;
+    width: 95%;
+}
+
+input[type="time"] {
+    background-color: rgba(104, 124, 103, 0.16);
+    height: 7vh;
+    font-size: 1.5rem;
+    border: none;
+    width: 95%;
+}
+
+input[type="button"] {
+    background: rgba(26, 130, 145, 0.69);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    height: 7vh;
+    font-size: 1.5rem;
+    border: none;
+    width: 40%;
+    color: white;
+    margin-left: 150px;
+}
+
+
+.label {
+    width: 20%;
+    font-size: 1.5rem;
+}
+
+.field {
+    width: 70%;
+    font-size: 1.5rem;
+    margin-bottom: 1vh;
+}
+.tc{
+    text-align: center;
+}

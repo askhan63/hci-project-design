@@ -1,0 +1,32 @@
+[
+    {
+        "title":"Walmart",
+        "img":"./walmart.jpeg",
+        "desc":"This is a grocery store. You can order online from this store."
+    },
+    {
+        "title":"Tom Thumb",
+        "img":"./target.jpeg",
+        "desc":"This is a grocery store. You can order online from this store."
+    },
+    {
+        "title":"Target",
+        "img":"./tom-thumb.png",
+        "desc":"This is a grocery store. You can order online from this store."
+    },
+    {
+        "title":"CVS",
+        "img":"./cvs.png",
+        "desc":"This is a medical store."
+    },
+    {
+        "title":"Burger King",
+        "img":"./burgerKing.png",
+        "desc":"This is restaurent providing burgers"
+    },
+    {
+        "title":"Whataburger",
+        "img":"./whataburger.png",
+        "desc":"his is restaurent providing burgers"
+    }
+]

@@ -1,0 +1,262 @@
+{
+    "Grocery":[
+        {
+            "title":"Walmart",
+            "img":"./walmart.png",
+            "desc":""
+        },
+        {
+            "title":"Kroger",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Aldi",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Target",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Tom Thumb",
+            "img":"",
+            "desc":""
+        }
+    ],
+
+    "Pharmacy":[
+        {
+            "title":"CVS Pharmacy",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Walgreens",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Medscape",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"HEB Pharmacy",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Walmart Wellness",
+            "img":"",
+            "desc":""
+        }
+    ],
+
+    "Restaurant":[
+        {
+            "title":"Subway",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Whataburger",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Chick-fil-A",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Panda Express",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Pizza Hut",
+            "img":"",
+            "desc":""
+        }
+    ],
+
+    "Coffee shops":[
+        {
+            "title":"Starbucks",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Dunkin",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Dutch Bros",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Joe Coffee",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Dunn Brothers",
+            "img":"",
+            "desc":""
+        }
+    ],
+
+    "Bank":[
+        {
+            "title":"Chase",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Bank of America",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Wells Fargo",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Bank of Texas",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Truist",
+            "img":"",
+            "desc":""
+        }
+    ],
+
+    "Social media":[
+        {
+            "title":"Instagram",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Whatsapp",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Twitter",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Snapchat",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Youtube",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Facebook",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Tik Tok",
+            "img":"",
+            "desc":""
+        }
+    ],
+    
+    "Transport":[
+        {
+            "title":"Uber",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Lyft",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Hitch",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Greyhound",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"redbus",
+            "img":"",
+            "desc":""
+        }
+    ],
+
+    "Online shopping":[
+        {
+            "title":"Amazon",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Bestbuy",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"ebay",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Costco",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"Ikea",
+            "img":"",
+            "desc":""
+        }
+    ],
+    "News channel":[
+        {
+            "title":"Fox News",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"CNN",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"AP News",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"NBC News",
+            "img":"",
+            "desc":""
+        },
+        {
+            "title":"BBC News",
+            "img":"",
+            "desc":""
+        }
+    ]
+}

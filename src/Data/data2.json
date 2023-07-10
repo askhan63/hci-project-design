@@ -1,0 +1,280 @@
+{
+    "walmart":{
+        "videourl":[
+            { "title" : "Walmart Order Online 1", "link" : "https://www.youtube.com/watch?v=-QWyPzTa6wI"},
+            { "title" : "Walmart Order Online 2", "link" : "https://www.youtube.com/watch?v=igkXVf9JGDE"},
+            { "title" : "Walmart Order Online 3", "link" : "https://www.youtube.com/watch?v=XQAu0duhI8k"}
+        ]
+    },
+    "target":{
+        "videourl":[
+           { "title" : "Target Order Online 1", "link" : "https://www.youtube.com/watch?v=6H4-HYQ3_9M"},
+           { "title" : "Target Order Online 2", "link" : "https://www.youtube.com/watch?v=Vl38rbMlFe0"},
+           { "title" : "Target Order Online 3", "link" : "https://www.youtube.com/watch?v=DFRHNhEmTZQ"} 
+        ]
+    },
+    "kroger":{
+        "videourl":[
+            { "title" : "Kroger Order Online 1", "link" : "https://www.youtube.com/watch?v=agTdAM2YKic"},
+            { "title" : "Kroger Order Online 2", "link" : "https://www.youtube.com/watch?v=KnrHMNcq8JQ"},
+            { "title" : "Kroger Order Online 3", "link" : "https://www.youtube.com/watch?v=waXdFrn_yFQ"}
+        ]
+    },
+    "tom thumb":{
+        "videourl":[
+            { "title" : "Tom Thumb Order Online 1", "link" : "https://www.youtube.com/watch?v=Z5bco_CLM20"},
+            { "title" : "Tom Thumb Order Online 2", "link" : "https://www.youtube.com/watch?v=hiXk01mMgCo"}
+        ]
+    },
+
+    "cvs pharmacy":{
+        "videourl":[
+            { "title" : "CVS Pharmacy Order Online 1", "link" : "https://www.youtube.com/watch?v=ei4tpvDLSFk"},
+            { "title" : "CVS Pharmacy Order Online 2", "link" : "https://www.youtube.com/watch?v=GV0uLhZDBfo"},
+            { "title" : "CVS Pharmacy Order Online 3", "link" : "https://www.youtube.com/watch?v=vpuceO0nepQ"}
+        ]
+    },
+    "walgreens":{
+        "videourl":[
+            { "title" : "Walgreens Order Online 1", "link" : "https://www.youtube.com/watch?v=yKx8Lr4IYRc"},
+            { "title" : "Walgreens Order Online 2", "link" : "https://www.youtube.com/watch?v=w8C97CgpbUk"},
+            { "title" : "Walgreens Order Online 3", "link" : "https://www.youtube.com/watch?v=ReVWxSIEL_w"}
+        ]
+    },
+    "medscape":{
+        "videourl":[
+            { "title" : "Medscape Order Online 1", "link" : "https://www.youtube.com/watch?v=YmNxIwCzixk"},
+            { "title" : "Medscape Order Online 2", "link" : "https://www.youtube.com/watch?v=G1wO_8tHpsY"},
+            { "title" : "Medscape Order Online 3", "link" : "https://www.youtube.com/watch?v=INWg0OZFCWA"}
+        ]
+    },
+    "heb pharmacy":{
+        "videourl":[
+            { "title" : "HEB Pharmacy Order Online 1", "link" : "https://www.youtube.com/watch?v=nRqLwhyvwJ8"},
+            { "title" : "HEB Pharmacy Order Online 2", "link" : "https://www.youtube.com/watch?v=NqhbJTzB328"}
+        ]
+    },
+    "walmart wellness":{
+        "videourl":[
+            { "title" : "Walmart Wellness Order Online 1", "link" : "https://www.youtube.com/watch?v=OTLrll1T_Ps"},
+            { "title" : "Walmart Wellness Order Online 2", "link" : "https://www.youtube.com/watch?v=tY6cEjM8Mfw"},
+            { "title" : "Walmart Wellness Order Online 3", "link" : "https://www.youtube.com/watch?v=2U5dBYdpfrY"}
+        ]
+    },
+
+    "subway":{
+        "videourl":[
+            { "title" : "Subway Order Online 1", "link" : "https://www.youtube.com/watch?v=Np7Gu9oT7qU"},
+            { "title" : "Subway Order Online 2", "link" : "https://www.youtube.com/watch?v=ECc03iR2SCw"},
+            { "title" : "Subway Order Online 3", "link" : "https://www.youtube.com/watch?v=DDGALI7D0Gs"}
+        ]
+    },
+    "whataburger":{
+        "videourl":[
+            { "title" : "Whataburger Order Online 1", "link" : "https://www.youtube.com/watch?v=dQTxo6y5fAs"},
+            { "title" : "Whataburger Order Online 2", "link" : "https://www.youtube.com/watch?v=4XiJkxGSl2M"}
+        ]
+    },
+    "chickfila":{
+        "videourl":[
+            { "title" : "Chickafila Order Online 1", "link" : "https://www.youtube.com/watch?v=IY54sRv7jEk"},
+            { "title" : "Chickafila Order Online 2", "link" : "https://www.youtube.com/watch?v=bKGw8HsNwL8"},
+            { "title" : "Chickafila Order Online 3", "link" : "https://www.youtube.com/shorts/aRruDQtWLOk"
+}        ]
+    },
+    "panda express":{
+        "videourl":[
+            { "title" : "Panda Exprees Order Online 1", "link" : "https://www.youtube.com/watch?v=WQJAAJYrr3s"}
+        ]
+    },
+    "pizza hut":{
+        "videourl":[
+            { "title" : "Pizza Hut Order Online 1", "link" : "https://www.youtube.com/watch?v=GJz7YKiit3I"},
+            { "title" : "Pizza Hut Order Online 2", "link" : "https://www.youtube.com/watch?v=zZLDQ6tYUPk"}
+        ]
+    },
+
+    "starbucks":{
+        "videourl":[
+            { "title" : "Starbucks Order Online 1", "link" : "https://www.youtube.com/watch?v=5JPZOZPMn18"},
+            { "title" : "Starbucks Order Online 2", "link" : "https://www.youtube.com/watch?v=DghK5eiDpNA"},
+            { "title" : "Starbucks Order Online 3", "link" : "https://www.youtube.com/watch?v=EsZMG1XyrLA"}
+        ]
+    },
+    "dunkin":{
+        "videourl":[
+            { "title" : "Dunkin Order Online 1", "link" : "https://www.youtube.com/watch?v=shPGILdwu7M"},
+            { "title" : "Dunkin Order Online 2", "link" : "https://www.youtube.com/watch?v=EPdR3mhVQFc"},
+            { "title" : "Dunkin Order Online 3", "link" : "https://www.youtube.com/watch?v=j3KUBAiW07g"}
+        ]
+    },
+    "dutch bros":{
+        "videourl":[
+            { "title" : "Dutch Order Online 1", "link" : "https://www.youtube.com/watch?v=shPGILdwu7M"},
+            { "title" : "Dutch Order Online 2", "link" : "https://www.youtube.com/watch?v=EPdR3mhVQFc"},
+            { "title" : "Dutch Order Online 3", "link" : "https://www.youtube.com/watch?v=j3KUBAiW07g"}
+        ]
+    },
+    "joe coffee":{
+        "videourl":[
+            { "title" : "Joe Coffee Order Online 1", "link" : "https://www.youtube.com/watch?v=AEGq1ePo794"},
+            { "title" : "Joe Coffee Order Online 2", "link" : "https://www.youtube.com/watch?v=_MZkmrA8oN0"},
+            { "title" : "Joe Coffee Order Online 3", "link" : "https://www.youtube.com/watch?v=YcKBG5G--9I"}
+        ]
+    },
+    "dunn brothers":{
+        "videourl":[
+            { "title" : "Dunn Brothers Order Online 1", "link" : "https://www.youtube.com/watch?v=QL7jfx22TyI"},
+            { "title" : "Dunn Brothers Order Online 2", "link" : "https://www.youtube.com/watch?v=VX-uWBZoGQA"}
+        ]
+    },
+
+    "chase":{
+        "videourl":[
+            { "title" : "Chase Deposit Money", "link" : "https://www.youtube.com/watch?v=yIgV4ROD994"},
+            { "title" : "Chase Deposit Cheque Online", "link" : "https://www.youtube.com/watch?v=1ZgSwVwA0N8"},
+            { "title" : "Chase Order Credit Card", "link" : "https://www.youtube.com/watch?v=jnikcYNAe68"}
+        ]
+    },
+    "bank of america":{
+        "videourl":[
+            { "title" : "Bank of America Order Credit Card", "link" : "https://www.youtube.com/watch?v=-cGT_khFQsQ"},
+            { "title" : "Bank of America Deposit Money", "link" : "https://www.youtube.com/watch?v=2nQ0kyTH9AA"},
+            { "title" : "Bank of America Deposit Cheque Online", "link" : "https://www.youtube.com/watch?v=6PA5C02EOtQ"}
+        ]
+    },
+    "wells fargo":{
+        "videourl":[
+            { "title" : "Wells Fargo Deposit Cheque Online", "link" : "https://www.youtube.com/watch?v=sWXsx2vazsQ"},
+            { "title" : "Wells Fargo Deposit Money", "link" : "https://www.youtube.com/watch?v=9nwSOLgA6RU"},
+            { "title" : "Wells Fargo Order Credit Card", "link" : "https://www.youtube.com/watch?v=hREsKzBV2g8"}
+        ]
+    },
+    "bank of texas":{
+        "videourl":[
+            { "title" : "Bank of Texas Deposit Money", "link" : "https://www.youtube.com/watch?v=h9K0vGKnWo4"}
+        ]
+    },
+    "truist":{
+        "videourl":[
+            { "title" : "Truist Deposit Cheque Online", "link" : "https://www.youtube.com/watch?v=E37CsoMgVMs"},
+            { "title" : "Truist Order Credit Card", "link" : "https://www.youtube.com/watch?v=4TBzs4RbIiY"},
+            { "title" : "Truist Deposit Money", "link" : "https://www.youtube.com/shorts/v2C01ra16hc"
+}        ]
+    },
+
+    "instagram":{
+        "videourl":[
+            { "title" : "Instagram Post Online", "link" : "https://www.youtube.com/watch?v=P1vtAZoMMuU"},
+            { "title" : "Instagram Create Account Online", "link" : "https://www.youtube.com/watch?v=no55N1sHjT8"}
+        ]
+    },
+    "whatsapp":{
+        "videourl":[
+            { "title" : "Whatsapp Create Group", "link" : "https://www.youtube.com/watch?v=y3EdIiJeTXk"},
+            { "title" : "Whatsapp Call", "link" : "https://www.youtube.com/watch?v=hY0ifh_j0yk"},
+            { "title" : "Whatsapp Send Message", "link" : "https://www.youtube.com/watch?v=1j5yrurWKuw"}
+        ]
+    },
+    "twitter":{
+        "videourl":[
+            { "title" : "Twitter Tweet Online", "link" : "https://www.youtube.com/watch?v=nrSjS9647Fk"},
+            { "title" : "Twitter Pay $8 for Verification", "link" : "https://www.youtube.com/watch?v=kVxE4bUaNMc"},
+            { "title" : "Twitter Report Spam", "link" : "https://www.youtube.com/watch?v=BwKwOyb62xs"}
+        ]
+    },
+    "snapchat":{
+        "videourl":[
+            { "title" : "Snapchat Post Online", "link" : "https://www.youtube.com/watch?v=SXoDXWLpbmQ"},
+            { "title" : "Snapchat Create Account", "link" : "https://www.youtube.com/watch?v=xDftwRZh0Qc"},
+            { "title" : "Snapchat Try New Filter", "link" : "https://www.youtube.com/watch?v=MeFwCIY232U"}
+        ]
+    },
+    "youtube":{
+        "videourl":[
+            { "title" : "YouTube Upload Video", "link" : "https://www.youtube.com/watch?v=MeFwCIY232U"},
+            { "title" : "YouTube Comment Online", "link" : "https://www.youtube.com/watch?v=bs2odsqBBMM"}
+        ]
+    },
+    "facebook":{
+        "videourl":[
+            { "title" : "Facebook Send Friend Request", "link" : "https://www.youtube.com/watch?v=8BGZgASN5vI"},
+            { "title" : "Facebook Post Online", "link" : "https://www.youtube.com/watch?v=xu8rh9Ref4Y"},
+            { "title" : "Facebook Create Account", "link" : "https://www.youtube.com/watch?v=Ho8ed-OC-34"}
+        ]
+    },
+    "tik tok":{
+        "videourl":[
+            { "title" : "TikTok Post Online", "link" : "https://www.youtube.com/watch?v=fF4hsz_t8ko"},
+            { "title" : "TikTok Create Account", "link" : "https://www.youtube.com/watch?v=rjjjlJw2cgM"},
+            { "title" : "TikTok Add Reels", "link" : "https://www.youtube.com/watch?v=PyaZxrN_gM8"}
+        ]
+    },
+
+    "uber":{
+        "videourl":[
+            { "title" : "Uber Book Cab", "link" : "https://www.youtube.com/watch?v=kZp-d-25Qg0"},
+            { "title" : "Uber Pay", "link" : "https://www.youtube.com/watch?v=IPxoItZ7kPk"}
+        ]
+    },
+    "lyft":{
+        "videourl":[
+            { "title" : "Lyft Book Cab", "link" : "https://www.youtube.com/watch?v=HobCUu4WViQ"},
+            { "title" : "Lyft Create Account", "link" : "https://www.youtube.com/watch?v=NKYlr8UjYb0"},
+            { "title" : "Lyft Customer Feedback", "link" : "https://www.youtube.com/watch?v=RvA62g6HWD8"}
+        ]
+    },
+    "hitch":{
+        "videourl":[
+            { "title" : "Hitch Add Feedback", "link" : "https://www.youtube.com/watch?v=knb3YuwjGfw"},
+            { "title" : "Hitch Create Account Online", "link" : "https://www.youtube.com/watch?v=gxvboq3urN0"}
+        ]
+    },
+    "greyhound":{
+        "videourl":[
+            { "title" : "Greyhound Book Bus Online", "link" : "https://www.youtube.com/watch?v=9FpkVYAlYy0"}
+        ]
+    },
+    "redbus":{
+        "videourl":[
+            { "title" : "Redbus Create Account Online", "link" : "https://www.youtube.com/watch?v=YREsNWgCT7U"},
+            { "title" : "Redbus Book Bus Online", "link" : "https://www.youtube.com/watch?v=v-cdTw2IXhk"}
+        ]
+    },
+
+    "amazon":{
+        "videourl":[
+            { "title" : "Amazon Order Online", "link" : "https://www.youtube.com/watch?v=vhpC4m61w-o"},
+            { "title" : "Amazon Order Online 2", "link" : "https://www.youtube.com/watch?v=3P4bK1zSmR0"},
+            { "title" : "Amazon Create Account", "link" : "https://www.youtube.com/watch?v=NGdgSJPs9Wo"}
+        ]
+    },
+    "bestbuy":{
+        "videourl":[
+            { "title" : "Bestbuy Order Online", "link" : "https://www.youtube.com/watch?v=aY6mxVjUSFU"},
+            { "title" : "Bestbuy Change Shop Location", "link" : "https://www.youtube.com/watch?v=eWAqImWB1ks"}
+        ]
+    },
+    "ebay":{
+        "videourl":[
+            { "title" : "eBay Order Online", "link" : "https://www.youtube.com/watch?v=U7KGR4gYxZE"},
+            { "title" : "eBay Create Account", "link" : "https://www.youtube.com/watch?v=0z46gucgkFo"},
+            { "title" : "eBay Sell Online", "link" : "https://www.youtube.com/watch?v=x0mEnR10Zuo"}
+        ]
+    },
+    "costco":{
+        "videourl":[
+            { "title" : "Costco Order Online", "link" : "https://www.youtube.com/watch?v=XwLQ_Tenk-k"},
+            { "title" : "Costco Create Account", "link" : "https://www.youtube.com/watch?v=4m5e-nl6qCg"}
+        ]
+    },
+    "ikea":{
+        "videourl":[
+            { "title" : "Ikea Order Online", "link" : "https://www.youtube.com/watch?v=ffja9u6MS-s"},
+            { "title" : "Ikea Return Order", "link" : "https://www.youtube.com/watch?v=NHADJvsmIOk"}
+        ]
+    }
+
+}
+
+

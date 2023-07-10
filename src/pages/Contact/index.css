@@ -1,0 +1,43 @@
+.contactSection{
+    height: 35vh;
+    font-size: 2.25rem;
+    padding: 20px;
+}
+.sth{
+    display: flex;
+    justify-content: center;
+}
+.emails{
+    font-size: 1.25rem;
+    margin: 0 auto;
+    text-align : center;
+}
+.pd{
+    padding-top: 4vh;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;}
+.actions{
+    display: flex;
+    height: 13.67vh;
+    background-color: blue;
+    justify-content: space-between;
+    font-size: 2rem;
+    align-items: center;
+    background: rgba(104, 124, 103, 0.16);
+    padding: 20px;
+    margin-bottom: 0.5vh;
+}
+
+.mb{
+    margin-bottom: 8.5vh;
+}
+.icon-style{
+    font-weight:700 !important;
+    color:#3895d3 !important;
+    font-size:40px !important;
+
+}
